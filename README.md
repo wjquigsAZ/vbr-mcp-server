@@ -32,6 +32,9 @@ The "mcp_settings.json" file shows an example configuration for Roo.
 
 #### Example queries to try:
 "list all vbr repositories"
+
 "list vbr repositories using S3 buckets"
+
 "show s3 cost for repository XXX for the month of March"
+
 "show cost for glacier repositories for the past week"
