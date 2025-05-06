@@ -28,7 +28,7 @@ logger = logging.getLogger(__name__)
 mcp = FastMCP("vbr")
 
 # Get environment variables
-VBR_API_URL = os.getenv('VBR_API_URL', 'https://54.218.74.2:9419')
+VBR_API_URL = os.getenv('VBR_API_URL', 'https://10.1.1.1:9419')
 VBR_USERNAME = os.getenv('VBR_USERNAME')
 VBR_PASSWORD = os.getenv('VBR_PASSWORD')
 
